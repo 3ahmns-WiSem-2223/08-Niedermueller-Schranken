@@ -19,7 +19,7 @@ public class Schranken : MonoBehaviour
         }
     }
 
-    public void buttonLinks()
+    public void ButtonLinks()
     {
         if (linksSchranke.activeSelf)
         {
@@ -32,7 +32,7 @@ public class Schranken : MonoBehaviour
         }
     }
 
-    public void buttonRechts()
+    public void ButtonRechts()
     {
         if (rechtsSchranke.activeSelf)
         {

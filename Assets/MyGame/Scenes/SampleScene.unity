@@ -609,7 +609,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2041918727}
         m_TargetAssemblyTypeName: Schranken, Assembly-CSharp
-        m_MethodName: buttonRechts
+        m_MethodName: ButtonRechts
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -977,7 +977,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2041918727}
         m_TargetAssemblyTypeName: Schranken, Assembly-CSharp
-        m_MethodName: buttonLinks
+        m_MethodName: ButtonLinks
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
